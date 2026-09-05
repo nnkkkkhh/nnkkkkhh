@@ -8,13 +8,10 @@
 
 ## 🚀 Портфолио
 
-**→ [Смотреть мои работы](https://nnkkkkhh.github.io)**
+**→ [Смотреть мои работы](https://github.com/nnkkkkhh/portfolio)**
 
-## 🛠 Технологии
-
-`JavaScript` · `HTML` · `CSS` · `Python` · `Git` · `GitHub`
 
 ## 📫 Связаться
 
 - GitHub — [@nnkkkkhh](https://github.com/nnkkkkhh)
-- Email — [nikitaharkov06@gmail.com](mailto:nikitaharkov06@gmail.com)
+- Email — [nikitakharkvv@gmail.com](mailto:nikitakharkvv@gmail.com)
