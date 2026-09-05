@@ -1,11 +1,20 @@
-# About Me
+# Привет, я Никита 👋
 
-Личная страница-портфолио.
+## Обо мне
 
-## Статус
+- 🧑‍💻 Разработчик, делаю веб-проекты и небольшие инструменты
+- 🌱 Сейчас изучаю новые технологии и собираю портфолио
+- 💬 Открыт к интересным задачам и совместным проектам
 
-В разработке.
+## 🚀 Портфолио
 
-## Контакты
+**→ [Смотреть мои работы](https://nnkkkkhh.github.io)**
 
-- GitHub: [@nnkkkkhh](https://github.com/nnkkkkhh)
+## 🛠 Технологии
+
+`JavaScript` · `HTML` · `CSS` · `Python` · `Git` · `GitHub`
+
+## 📫 Связаться
+
+- GitHub — [@nnkkkkhh](https://github.com/nnkkkkhh)
+- Email — [nikitaharkov06@gmail.com](mailto:nikitaharkov06@gmail.com)
